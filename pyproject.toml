@@ -6,13 +6,17 @@ authors = [
     {name = "Cvandia", email = "106718176+Cvandia@users.noreply.github.com"},
 ]
 dependencies = []
-requires-python = "<4.0,>=3.10"
+requires-python = ">=3.10"
 readme = "README.md"
 license = {text = "MIT"}
 
 
 [tool.pdm]
-distribution = false
+distribution = true
 
 [dependency-groups]
 dev = ["pre-commit>=4.0.1"]
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
