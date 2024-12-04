@@ -15,7 +15,7 @@ license = {text = "MIT"}
 distribution = true
 
 [dependency-groups]
-dev = ["pre-commit>=4.0.1"]
+dev = ["pre-commit>=4.0.1", "ruff>=0.8.1"]
 
 [build-system]
 requires = ["pdm-backend"]
