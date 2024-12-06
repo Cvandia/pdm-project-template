@@ -1,12 +1,13 @@
-name: Ruff Check
+name: Ruff Lint
 
 on:
   push:
-    branches: [ "*" ]
+    branches:
+      - main
   pull_request:
     paths:
-      - "src/**"
-
+      - src/**
+      - pyproject.toml
 
 jobs:
   ruff:
@@ -15,5 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Run Ruff Lint
+      - name: Run Ruff
         uses: chartboost/ruff-action@v1
+        with:
+          version: 0.7.0
