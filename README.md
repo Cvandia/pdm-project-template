@@ -15,6 +15,8 @@ _⭐基于xxx的pdm项目⭐_
     <img src="https://img.shields.io/badge/license-MIT-blue"></a>
 <a href="https://v2.nonebot.dev/">
     <img src="https://img.shields.io/badge/Nonebot2-2.2.0+-red"></a>
+<a href="https://pdm.fming.dev">
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fpdm-project%2F.github%2Fbadge.json" alt="pdm-managed"></a>
 <a href="https://github.com/Cvandia/pdm-project-template/blob/main/.github/workflows/ruff-check.yml">
     <img src="https://github.com/Cvandia/pdm-project-template/actions/workflows/ruff-check.yml/badge.svg?branch=main"></a>
 
@@ -24,7 +26,7 @@ _⭐基于xxx的pdm项目⭐_
 
 ---
 
-## ⭐ 介绍
+## 📝 介绍
 
 **这是介绍项目的简介，请根据实际情况修改。**
 这是具体介绍内容
@@ -98,7 +100,7 @@ git clone https://github.com/Cvandia/pdm-project-template
 
 **注：这里是配置的说明**
 
-## ⭐ 使用
+## 🚀 使用
 
 > [!note]
 > 这里是使用说明
@@ -123,7 +125,7 @@ git clone https://github.com/Cvandia/pdm-project-template
 - [x] [nonebot2](https://github.com/nonebot/nonebot2): 本项目的基础，非常好用的聊天机器人框架。
 
 
-## ⭐ 额外帮助
+## 📚 更多帮助
 
 **这里是额外帮助**
 1. xxxx
