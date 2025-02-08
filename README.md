@@ -114,16 +114,17 @@ git clone https://github.com/Cvandia/pdm-project-template
 ## 🌙 Todo
  - [x] 添加更多配置项
 
-<div align="center">
-
 **喜欢记得点个star⭐**
-
-</div>
 
 ## 💝 特别鸣谢
 
 - [x] [nonebot2](https://github.com/nonebot/nonebot2): 本项目的基础，非常好用的聊天机器人框架。
 
+## Contributer
+
+<a href="https://github.com/Cvandia/pdm-project-template/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Cvandia/pdm-project-template&max=1000" alt="contributors" />
+</a>
 
 ## 📚 更多帮助
 
